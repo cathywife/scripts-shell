@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author:
+#Author:ymc023
 #Mail: 
 #Platform:
 #Date:Mon 16 Jan 2017 05:30:29 AM CST
