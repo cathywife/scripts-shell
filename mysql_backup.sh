@@ -8,7 +8,7 @@
 
 function mysql_backup(){
 user=root
-pass=SfcCq@123$
+pass=root
 backup_dir=/usr/local/backup/
 ker_version=`uname -r |awk -F '.' '{print $1}'`
 
